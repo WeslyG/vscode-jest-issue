@@ -1,0 +1,8 @@
+{
+  "jest.autoRun": "off",
+  "jest.testExplorer": {
+    "enabled": true,
+    "showClassicStatus": true,
+    "showInlineError": true
+  }
+}
